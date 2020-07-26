@@ -30,7 +30,7 @@ pip3 install -r rose
 
 Open commad line in the folder then:
 ```bash
-python3 start.py
+python3 os.py
 ```
 ## What can you do with it:
 
