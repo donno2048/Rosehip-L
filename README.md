@@ -7,7 +7,7 @@ Released Operational System by Elisha Hollander Implemented Python
 
 ## How to install:
 
-download the project from the releases section or [go there directly](https://github.com/donno2048/Rosehip/releases), extract the folder then:
+download the project, extract the folder then:
 
 Open command line in the folder
 
