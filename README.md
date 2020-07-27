@@ -4,7 +4,7 @@ Released Operational System by Elisha Hollander Implemented Python
 ```diff
 - this only works on ubuntu
 ```
-
+there is also a [version for windows](https://github.com/donno2048/Rosehip).
 ## How to install:
 
 download the project from the releases section or [go there directly](https://github.com/donno2048/Rosehip-L/releases), extract the folder then:
@@ -59,3 +59,9 @@ python3 os.py
 - [x] ~~[background image picker](https://en.wikipedia.org/wiki/Wallpaper_(computing))~~
 - [ ] [camera](https://en.wikipedia.org/wiki/Camera)
 - [ ] [CLI](https://en.wikipedia.org/wiki/Command-line_interface)
+
+## For developers:
+
+if you want to use it as an .iso you can run [another code I wrote](https://github.com/donno2048/CITUR-L)
+
+or you can either use the [.iso builder](https://github.com/donno2048/CITUR) for the [windows version of Rosehip](https://github.com/donno2048/Rosehip)  but it's currently having some issues, as specified is the [README](https://github.com/donno2048/CITUR/blob/master/README.md)...
