@@ -62,7 +62,7 @@ python3 os.py
 - [x] ~~[clock](https://en.wikipedia.org/wiki/Clock)~~
 - [x] ~~[background color picker](https://en.wikipedia.org/wiki/Wallpaper_(computing))~~
 - [x] ~~[background image picker](https://en.wikipedia.org/wiki/Wallpaper_(computing))~~
-- [ ] [camera](https://en.wikipedia.org/wiki/Camera)
+- [x] ~~[camera](https://en.wikipedia.org/wiki/Camera)~~
 - [ ] [CLI](https://en.wikipedia.org/wiki/Command-line_interface)
 
 ## For developers:
