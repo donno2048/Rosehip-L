@@ -50,6 +50,8 @@ python3 os.py
 - [x] ~~[perl idle](https://www.perl.org/)~~
 - [x] ~~[java idle](https://www.java.com/en/)~~
 - [x] ~~[bash idle](https://www.gnu.org/software/bash/)~~
+- [x] ~~[c idle](https://en.wikipedia.org/wiki/C_(programming_language))~~
+- [x] ~~[c++ idle](https://en.wikipedia.org/wiki/C%2B%2B)~~
 - [x] ~~[chrome](https://en.wikipedia.org/wiki/Google_Chrome)~~
 - [x] ~~[text based web-browser](https://en.wikipedia.org/wiki/Text-based_web_browser)~~
 - [x] ~~[ogg music player](https://en.wikipedia.org/wiki/Ogg)~~
