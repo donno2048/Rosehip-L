@@ -54,6 +54,7 @@ python3 os.py
 - [x] ~~[ruby idle](https://www.ruby-lang.org/en/)~~
 - [x] ~~[c++ idle](https://en.wikipedia.org/wiki/C%2B%2B)~~
 - [x] ~~[objective-C idle](https://en.wikipedia.org/wiki/Objective-C)~~
+- [x] ~~[lua idle](http://www.lua.org/)~~
 - [x] ~~[chrome](https://en.wikipedia.org/wiki/Google_Chrome)~~
 - [x] ~~[text based web-browser](https://en.wikipedia.org/wiki/Text-based_web_browser)~~
 - [x] ~~[ogg music player](https://en.wikipedia.org/wiki/Ogg)~~
