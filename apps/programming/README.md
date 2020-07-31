@@ -23,6 +23,14 @@ int main()
 }
 ```
 
+## c:
+```c
+#include <stdio.h>    
+void main(){
+printf("Hello C Language");
+}  
+```
+
 ## html:
 ```html
 <html>
