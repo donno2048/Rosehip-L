@@ -12,6 +12,17 @@ since ENTER is used to execute the code use | to separate lines.
 echo $sum
 ```
 
+## c++:
+```c++
+#include<iostream>
+using namespace std;
+int main()
+{
+   cout<<"Hello World!";
+   return 0;
+}
+```
+
 ## html:
 ```html
 <html>
