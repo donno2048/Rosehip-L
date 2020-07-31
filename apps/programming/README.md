@@ -77,5 +77,17 @@ print $length;
 ## python:
 
 ```python3
-for i in range(42):print('42\n')
+for i in range(42):
+    print('42\n')
+```
+
+## ruby:
+
+```ruby
+a = 10
+b = 3 * a + 2
+printf("%d %d\n", a, b);
+b = "A string"
+c = 'Another String'
+print b + " and " + c + "\n"
 ```
