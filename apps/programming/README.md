@@ -40,9 +40,38 @@ printf("Hello C Language");
 </html>
 ```
 
+## Java:
+```java
+public class JavaProgram {
+  public static void main(String[] args){
+    System.out.println("hi there");
+  }
+}
+```
+
 ## javascript:
 ```js
 document.write("Hello World!")
+```
+
+## lua:
+```lua
+function fact (n)
+  if n == 0 then
+    return 1
+  else
+    return n * fact(n-1)
+  end
+end
+print(fact(10))
+```
+
+## perl:
+
+```perl
+$string = qwerty;
+$length = length $string;
+print $length;
 ```
 
 ## python:
