@@ -12,33 +12,6 @@ since ENTER is used to execute the code use | to separate lines.
 echo $sum
 ```
 
-## bat:
-
-```bat
-@echo hi
-@echo off
-@echo hi again
-@echo on
-@echo hi there
-```
-
-## c#:
-
-```csharp
-using System;
-
-namespace HelloWorld
-{
-  class Program
-  {
-    static void Main(string[] args)
-    {
-      Console.WriteLine("Hi");    
-    }
-  }
-}
-```
-
 ## html:
 ```html
 <html>
@@ -53,23 +26,8 @@ namespace HelloWorld
 document.write("Hello World!")
 ```
 
-## powerhell:
-
-```powershell
-$l1=@(1,2,3)+@(4,5,6)
-$l2=$l1 | Measure-Object
-$l=$l1,$l2
-Write-Output $l
-```
-
 ## python:
 
 ```python3
 for i in range(42):print('42\n')
-```
-
-## visual basic script:
-
-```vbs
-MsgBox "hi you"
 ```
