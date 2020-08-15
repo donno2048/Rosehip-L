@@ -2,7 +2,7 @@
 Released Operational System by Elisha Hollander Implemented Python
 
 ```diff
-- this only works on Ubuntu and Debian
+- this only works on Ubuntu, Debian and Mint
 ```
 there is also a [version for windows](https://github.com/donno2048/Rosehip).
 ## How to install:
