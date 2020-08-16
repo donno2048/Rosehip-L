@@ -1,7 +1,6 @@
 pygame
 pyttsx3
 pygame-gui
-keyboard
 wheel
 Js2Py
 selenium
