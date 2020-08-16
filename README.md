@@ -24,7 +24,7 @@ sudo apt install python3-pip
 ```
 ###### To install requirements:
 ```bash
-pip3 install -r requirements.txt
+pip3 install -r rose
 ```
 ## How to use it:
 
