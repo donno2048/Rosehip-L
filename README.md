@@ -71,3 +71,4 @@ python3 os.py
 if you want to use it as an .iso you can run [another code I wrote](https://github.com/donno2048/CITUR-L)
 
 or you can either use the [.iso builder](https://github.com/donno2048/CITUR) for the [windows version of Rosehip](https://github.com/donno2048/Rosehip)  but it's currently having some issues, as specified is the [README](https://github.com/donno2048/CITUR/blob/master/README.md)...
+<img width="0px" src="https://komarev.com/ghpvc/?username=antonkomarev">
