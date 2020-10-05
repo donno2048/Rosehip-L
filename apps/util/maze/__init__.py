@@ -18,8 +18,7 @@ class DisjointSet:
 		elif root_a != root_b and root_a.rank > root_b.rank:root_b.parent = root_a
 		elif root_a != root_b:root_b.parent = root_a;root_a.rank+=1
 class Maze:
-	def __init__(self, width):
-		self.width = width;self.height = width;self.seed = random.random()*10000;self.grid = [[(width*row + col) for row in range(0,width)] for col in range(0, width)];self.portals = {};self.kruskalize()
+	def __init__(self, width):self.width = width;self.height = width;self.seed = random.random()*10000;self.grid = [[(width*row + col) for row in range(0,width)] for col in range(0, width)];self.portals = {};self.kruskalize()
 	def __str__(self):
 		s=''
 		for i in range(self.width):s+=str(random.randint(1,2))+str(random.randint(1,2))
