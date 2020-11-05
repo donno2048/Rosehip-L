@@ -44,16 +44,7 @@ python3 os.py
 ## To do:
 - [x] ~~[animations](https://en.wikipedia.org/wiki/Stop_motion)~~
 - [x] ~~[pong](https://en.wikipedia.org/wiki/Pong)~~
-- [x] ~~[python idle](https://www.python.org/)~~
-- [x] ~~[html idle](https://en.wikipedia.org/wiki/HTML)~~
-- [x] ~~[javascript idle](https://www.javascript.com/)~~
-- [x] ~~[perl idle](https://www.perl.org/)~~
-- [x] ~~[java idle](https://www.java.com/en/)~~
-- [x] ~~[bash idle](https://www.gnu.org/software/bash/)~~
-- [x] ~~[c idle](https://en.wikipedia.org/wiki/C_(programming_language))~~
-- [x] ~~[ruby idle](https://www.ruby-lang.org/en/)~~
-- [x] ~~[c++ idle](https://en.wikipedia.org/wiki/C%2B%2B)~~
-- [x] ~~[lua idle](http://www.lua.org/)~~
+- [x] ~~variety of compilers ([python](https://www.python.org/), [html](https://en.wikipedia.org/wiki/HTML), [javascript](https://www.javascript.com/), [perl](https://www.perl.org/), [java](https://www.java.com/en/), [bash](https://www.gnu.org/software/bash/), [c](https://en.wikipedia.org/wiki/C_(programming_language)), [ruby](https://www.ruby-lang.org/en/), [c++](https://en.wikipedia.org/wiki/C%2B%2B), and [lua](http://www.lua.org/)~~
 - [x] ~~[chrome](https://en.wikipedia.org/wiki/Google_Chrome)~~
 - [x] ~~[text based web-browser](https://en.wikipedia.org/wiki/Text-based_web_browser)~~
 - [x] ~~[ogg music player](https://en.wikipedia.org/wiki/Ogg)~~
@@ -71,4 +62,3 @@ python3 os.py
 if you want to use it as an .iso you can run [another code I wrote](https://github.com/donno2048/CITUR-L)
 
 or you can either use the [.iso builder](https://github.com/donno2048/CITUR) for the [windows version of Rosehip](https://github.com/donno2048/Rosehip)  but it's currently having some issues, as specified is the [README](https://github.com/donno2048/CITUR/blob/master/README.md)...
-<img width="0px" src="https://komarev.com/ghpvc/?username=antonkomarev">
