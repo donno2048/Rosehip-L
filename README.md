@@ -49,7 +49,7 @@ python3 os.py
 ## To do:
 - [x] ~~[animations](https://en.wikipedia.org/wiki/Stop_motion)~~
 - [x] ~~[pong](https://en.wikipedia.org/wiki/Pong)~~
-- [x] ~~variety of compilers ([python](https://www.python.org/), [html](https://en.wikipedia.org/wiki/HTML), [javascript](https://www.javascript.com/), [perl](https://www.perl.org/), [java](https://www.java.com/en/), [bash](https://www.gnu.org/software/bash/), [c](https://en.wikipedia.org/wiki/C_(programming_language)), [ruby](https://www.ruby-lang.org/en/), [c++](https://en.wikipedia.org/wiki/C%2B%2B), and [lua](http://www.lua.org/)~~
+- [x] ~~variety of compilers ([python](https://www.python.org/), [html](https://en.wikipedia.org/wiki/HTML), [javascript](https://www.javascript.com/), [perl](https://www.perl.org/), [java](https://www.java.com/en/), [bash](https://www.gnu.org/software/bash/), [c](https://en.wikipedia.org/wiki/C_(programming_language)), [ruby](https://www.ruby-lang.org/en/), [c++](https://en.wikipedia.org/wiki/C%2B%2B), and [lua](http://www.lua.org/)~~)
 - [x] ~~[chrome](https://en.wikipedia.org/wiki/Google_Chrome)~~
 - [x] ~~[text based web-browser](https://en.wikipedia.org/wiki/Text-based_web_browser)~~
 - [x] ~~[ogg music player](https://en.wikipedia.org/wiki/Ogg)~~
