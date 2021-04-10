@@ -1,0 +1,4 @@
+0a1,3
+> def load(size, source):
+>     global display, screen
+>     display, screen = pygame.Surface(size), source  

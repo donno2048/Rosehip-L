@@ -67,3 +67,15 @@ python3 os.py
 if you want to use it as an .iso you can run [another code I wrote](https://github.com/donno2048/CITUR-L)
 
 or you can either use the [.iso builder](https://github.com/donno2048/CITUR) for the [windows version of Rosehip](https://github.com/donno2048/Rosehip)  but it's currently having some issues, as specified is the [README](https://github.com/donno2048/CITUR/blob/master/README.md)...
+
+## For extreme developers:
+
+I recently added auto-support for any pygame app, the blade-runner in the util folder is an example for this method, run the patch file using:
+
+```sh
+patch blade_runner/__init__.py blade.patch
+```
+
+In the blade-runner folder to make the blade_runner app compatible.
+
+(This was never tested...)
