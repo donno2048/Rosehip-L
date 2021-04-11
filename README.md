@@ -70,7 +70,7 @@ or you can either use the [.iso builder](https://github.com/donno2048/CITUR) for
 
 ## For extreme developers:
 
-I recently added auto-support for any pygame app, the blade-runner in the util folder is an example for this method, run the patch file using:
+I recently added auto-support for any pygame app, open the master branch, the blade-runner in the util folder is an example for this method, run the patch file using:
 
 ```sh
 patch blade_runner/__init__.py blade.patch
