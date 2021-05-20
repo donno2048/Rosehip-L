@@ -4,7 +4,7 @@ Reliable Operating System by Elisha Hollander Implemented Python
 ```diff
 - this only works on Ubuntu, Debian and Mint
 ```
-there is also a [version for windows](https://github.com/donno2048/Rosehip).
+There is also a [version for windows](https://github.com/donno2048/Rosehip).
 
 There is also a [version for web](https://github.com/donno2048/Rosehip-repl), which is not recommended
 
@@ -12,7 +12,7 @@ There is no version for Android but you can install [Pydroid](https://play.googl
 
 ## How to install:
 
-download the project from the releases section or [go there directly](https://github.com/donno2048/Rosehip-L/releases), extract the folder then:
+Download the project from the releases section or [go there directly](https://github.com/donno2048/Rosehip-L/releases), extract the folder (or just `git clone`) then:
 
 Open command line in the folder
 
