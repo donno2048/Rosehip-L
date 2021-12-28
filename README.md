@@ -29,6 +29,7 @@ sudo apt install python3-pip
 ```
 ###### To install requirements:
 ```bash
+sudo apt install ffmpeg libsm6 libxext6 -y
 pip3 install -r requirements.txt
 ```
 ## How to use it:
