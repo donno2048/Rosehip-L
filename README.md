@@ -1,9 +1,9 @@
 # Rosehip
 Reliable Operating System by Elisha Hollander Implemented Python
 
-```diff
-- this only works on Ubuntu, Debian and Mint
-```
+> **Warning**
+> Only works on Debian based distros
+
 There is also a [version for windows](https://github.com/donno2048/Rosehip).
 
 There is also a [version for web](https://github.com/donno2048/Rosehip-repl), which is not recommended
