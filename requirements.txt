@@ -2,7 +2,7 @@ pygame==1.9.6
 pygame-gui==0.5.7
 html2text==2020.1.16
 Js2Py==0.70
-opencv-python==4.5.2.52
+opencv-python==4.8.1.78
 pyttsx3==2.90
 wheel==0.38.1
 selenium==3.141.0
